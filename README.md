@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lebansty Valan .T.L</h1>
 <h3 align="center">A passionate frontend developer from India, Tamil Nadu,chennai.</h3>
-
+<img align="right" alt="Coading" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebansty&label=Profile%20views&color=0e75b6&style=flat" alt="lebansty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebansty" alt="lebansty" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN stack**
 
